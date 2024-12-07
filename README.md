@@ -13,4 +13,4 @@ Welcome to the Instagram Ban Service repository! This service is designed to **s
 1. **Ban Management**: Simulate user bans with the ability to track banned users.
 2. **Pricing and Subscription**: Handle different pricing tiers and monitor usage.
 3. **Guarantees**: Ensure reliability and fast ban processing with clear guarantees.
-4. ##contact:https://t.me/Visckaaa
+###contact:https://t.me/Visckaaa
