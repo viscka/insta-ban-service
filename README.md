@@ -1,4 +1,4 @@
-# Instagram Ban Service
+# Instagram Ban Service 
 
 Welcome to the Instagram Ban Service repository! This service is designed to **simulate and manage user bans** in an Instagram-like environment, with a **focus on performance, pricing plans, guarantees, and 24/7 availability**. 
 
